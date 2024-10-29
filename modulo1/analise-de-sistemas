@@ -1,0 +1,22 @@
+Ciclo de vida do desenvolvimento de software. 
+
+Etapa 1 - Levantamento de requisitos.
+> Conhecer o que o cliente precisa. Ferramentas: questionário, entrevista, casos de uso, análise de documentos e observação. 
+
+Etapa 2 - Análise de requisitos.
+> Propor um modelo de solução a partir daquilo que foi levantado. Usa-se diagrama de casos de uso. 
+
+Etapa 3 - Projeto.
+> Definição da linguagem de programação, esquema de banco de dados. 
+
+Etapa 4 - Implementação. 
+> Codificação do sistema a partir do projeto.
+
+Etapa 5 - Teste
+> Verificar se o que foi desenvolvido atende ao que foi planejado
+
+Etapa 6 - Implantação
+> Instalação do software
+
+Etapa 7 - Manutenção
+> Correção de problemas ou erros que surgirem durante a utilização da ferramenta criada. 
