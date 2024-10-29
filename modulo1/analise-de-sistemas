@@ -3,8 +3,38 @@ Ciclo de vida do desenvolvimento de software.
 Etapa 1 - Levantamento de requisitos.
 > Conhecer o que o cliente precisa. Ferramentas: questionário, entrevista, casos de uso, análise de documentos e observação. 
 
+1.1 Requisitos 
+1.1.1 >> O negócio: demandas
+"Não serão aceitas compras com cartão de crédito"
+1.1.2 >> O usuário: necessidades
+"Examina os saldos das contas. Agenda reuniões"
+1.1.3 >> A funcionalidade do software: sua execução
+"Permite visualizar produtos e fazer compras, pagamentos etc."
+Nota: prever restrições, como um endereço inviável com histórico de produto devolvido, ou de tecnologia, como uma conexão banda larga, caso necessidade de transferência de dados bancários.
+1.1.4 >> A não funcionalidade: aparência do sistema
+1.1.5 >> O sistema: como deve ser elaborado
+
+1.2 Técnicas
+1.2.1 >> Entrevistas: fechadas, abertas, com agenda prévia ou não.
+1.2.2 >> Pesquisa: ouvir outras pessoas.
+1.2.3 >> Questionário: formatado para coleta e compilação de dados entre todos os envolvidos.
+1.2.4 >> Análise de tarefas: verificar a operação existente, incluindo software já utilizados.
+1.2.5 >> Brainstorm: explora a criatividade e conecta pessoas e ideias
+1.2.6 >> Debate: registro das contribuições advindas desta conversa coletiva.
+1.2.7 >> Prototipagem: interface sem funcionalidades para registro de feedback.
+1.2.8 >> Observação: anotações de uma visita ao cliente e sua forma de trabalho.
+
 Etapa 2 - Análise de requisitos.
 > Propor um modelo de solução a partir daquilo que foi levantado. Usa-se diagrama de casos de uso. 
+
+1.1 Diagrama UML: conjunto de diagramas que representa a ideia comum a todos. Vira um documento do sistema.
+1.1.1 >> Classe: visão do sistema em classes que são nomeadas e possuem atributos e operações.
+1.1.2 >> Pacote: agrupamentos lógicos.
+1.1.3 >> Objeto: visão dos objetos gerados (associado ao diagrama de classes)
+1.1.4 >> Estrutura composta: visão interna de uma classe e comunicação das suas partes, entender a colaboração de sua instanciação.
+1.1.5 >> Componentes: dependências ou não entre os componentes.
+1.1.6 >> Perfil: estende diagramas existentes e verifica possibilidades.
+1.1.7 >> Implantação: 
 
 Etapa 3 - Projeto.
 > Definição da linguagem de programação, esquema de banco de dados. 
